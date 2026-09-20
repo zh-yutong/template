@@ -4,7 +4,7 @@ title: 主页
 
 # [OpenHUTB Page 模板](https://github.com/OpenHUTB/template)
 
-欢迎使用 OpenHUTB 的 Github Page 模板文档 [@he2024dynsyn]。
+欢迎使用 OpenHUTB 的 Github Page 模板 [@he2024dynsyn]。
 
 
 
