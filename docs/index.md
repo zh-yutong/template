@@ -4,13 +4,13 @@ title: 主页
 
 # [OpenHUTB Page 模板](https://github.com/OpenHUTB/template)
 
-欢迎来到我的学习主页。
+欢迎来到我的社区。
 
 
 
 
 
-- [简介](我是，正在学习开源技术与实践课程。)
+- [简介](#我是，正在学习开源技术与实践课程。)
     - [mkdocs简介](#mkdocs)
     - [播放视频](#videos)
 - [表格](#table)
