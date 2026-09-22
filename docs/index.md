@@ -4,13 +4,13 @@ title: 主页
 
 # [OpenHUTB Page 模板](https://github.com/OpenHUTB/template)
 
-欢迎使用 OpenHUTB 的 Github Page 模板 [@he2024dynsyn]。
+欢迎来到我的学习主页。
 
 
 
 
 
-- [简介](#introduction)
+- [简介](我是zh-yutong，正在学习开源技术与实践课程。)
     - [mkdocs简介](#mkdocs)
     - [播放视频](#videos)
 - [表格](#table)
